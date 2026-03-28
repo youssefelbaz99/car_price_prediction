@@ -35,9 +35,8 @@ Follow these steps to get a local copy up and running:
 ```bash
 git clone [https://github.com/youssefelbaz99/car_price_prediction.git](https://github.com/youssefelbaz99/car_price_prediction.git)
 cd car_price_prediction
-
-
-###👤 Author
+```
+## 👤 Author
 <div align="center">
 <img src="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/youssefelbaz99.png" width="120px" style="border-radius: 50%;" alt="Youssef Mohamed Elbaz"/>
 <br />
