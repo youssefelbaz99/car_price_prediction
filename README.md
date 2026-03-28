@@ -33,7 +33,7 @@ Follow these steps to get a local copy up and running:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/youssefelbaz99/car_price_prediction.git](https://github.com/youssefelbaz99/car_price_prediction.git)
+git clone(https://github.com/youssefelbaz99/car_price_prediction.git)
 cd car_price_prediction
 ```
 ## 👤 Author
