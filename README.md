@@ -37,14 +37,13 @@ git clone [https://github.com/youssefelbaz99/car_price_prediction.git](https://g
 cd car_price_prediction
 ```
 ## 👤 Author
-<div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/youssefelbaz99.png" width="120px" style="border-radius: 50%;" alt="Youssef Mohamed Elbaz"/>
-<br />
-<b>Youssef Mohamed Elbaz</b>
-<br />
-Graphic Designer | Machine Learning Enthusiast
-<br />
-<a href="https://www.google.com/search?q=https://github.com/youssefelbaz99">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-black%3Flogo%3Dgithub" alt="GitHub Profile" />
-</a>
-</div>
+<table>
+  <tr>
+      <td align="center">
+      <a href="https://github.com/youssefelbaz99">
+        <img src="https://avatars.githubusercontent.com/u/248545186?v=4" width="100px;" alt=""/>
+        <br /><sub><b>Youssef Elbaz
+        </a>
+    </td>
+</table>
+
